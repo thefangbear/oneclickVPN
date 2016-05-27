@@ -6,19 +6,3 @@ Stacked one-click VPN installing scripts for CentOS / Fedora / Debian. Supportin
 Supported OS
 ============
 CentOS 5/6, Fedora.
-
-Legacy Versions
-===========
-No other versions are avaliable for deployment.
-
-Legal
-=====
-Released under GNU GPLv2 or MIT Liscence.
-
-Bug Reports
-==================
-frjalex@gmail.com
-
-Ur Hope
-====================
-The author hopes u can develop a debian version. Fork now!
